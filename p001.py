@@ -15,4 +15,3 @@ def compute():
 
 
 print(compute())
-print(type(compute()))
